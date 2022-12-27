@@ -1,0 +1,1 @@
+/usr/src/startup/startup.sh & /opt/mssql/bin/sqlservr
